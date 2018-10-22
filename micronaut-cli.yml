@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: mn.maven.hibernate
+---
+testFramework: spock
+sourceLanguage: groovy
